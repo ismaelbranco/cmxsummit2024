@@ -1,5 +1,6 @@
 ---
 title: "CMX Summit 2024 Archive"
+layout: default
 permalink: /
 ---
 
