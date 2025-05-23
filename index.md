@@ -1,4 +1,9 @@
-# https://web.archive.org/web/20240420003653/https://www.cmxhub.com/summit
+---
+title: "CMX Summit 2024 Archive"
+permalink: /
+---
+
+# [CMX Summit 2024 Archive](https://web.archive.org/web/20240420003653/https://www.cmxhub.com/summit)
 
 This is a converted document from the Wayback Machine.
 
